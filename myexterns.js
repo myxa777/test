@@ -1,9 +1,10 @@
 _.editor;
 _.editor.setTheme;
+_.editor.setSession;
 _.editor.getSession;
 _.editor.getSession.setMode;
-_.editor.getSession;
-_.editor.getSession;
+_.editor.getSession.setTabSize;
+_.editor.getSession.setUseWrapMode;
 _.editor.setOptions;
 _.editor.session;
 _.editor.session.setValue;
