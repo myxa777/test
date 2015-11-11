@@ -22,7 +22,7 @@ _.jsBody = {};
 _.jsBody.resetTemplate;
 _.jsBody.set;
 _.jsBody.once;
-bootstrapToggle;
+var bootstrapToggle;
 var SocialShareKit = {};
 SocialShareKit.init;
 var el;
