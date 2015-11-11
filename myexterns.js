@@ -64,4 +64,5 @@ _.redrawRecap;
 _.myVarRecap;
 _.recap_array = {};
 _.recap_array.ae;
+_.doneEditingFunction;
 
