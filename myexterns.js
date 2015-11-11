@@ -1,0 +1,15 @@
+_.editor;
+_.editor.setTheme;
+_.editor.getSession;
+_.editor.getSession.setMode;
+_.editor.getSession;
+_.editor.getSession;
+_.editor.setOptions;
+_.editor.session;
+_.editor.session.setValue;
+_.editor.session.getValue;
+_.editor.getValue;
+_.editor.gotoLine;
+_.editor.focus();
+_.editor.selection.getCursor;
+_.editor.selection.moveCursorToPosition;
