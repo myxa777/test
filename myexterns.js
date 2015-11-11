@@ -17,7 +17,7 @@ _.editor.selection.moveCursorToPosition;
 Ractive;
 _.jsBody;
 _.jsBody.resetTemplate;
-_.jsBody.set
+_.jsBody.set;
 _.jsBody.once;
 bootstrapToggle;
 SocialShareKit.init;
