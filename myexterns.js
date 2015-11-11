@@ -1,3 +1,4 @@
+_;
 _.editor;
 _.editor.setTheme;
 _.editor.setSession;
