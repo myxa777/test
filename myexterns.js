@@ -21,5 +21,5 @@ _.jsBody.resetTemplate;
 _.jsBody.set;
 _.jsBody.once;
 bootstrapToggle;
-var SocialShareKit;.init;
-SocialShareKit;
+var SocialShareKit;
+SocialShareKit.init;
