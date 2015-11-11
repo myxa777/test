@@ -50,4 +50,18 @@ var drop;
 var over;
 var out;
 var click_startEditor;
+_.onselectChangedTheme;
+_.onselectChangedFontSize;
+_.onclickRECAPULATR;
+_.onclickAE;
+_.onclickVIEWER;
+_.onclickABOUT;
+_.onclickCONTACT;
+_.exampleRecap;
+_.exampleRecapEnd;
+_.submitRecap;
+_.redrawRecap;
+_.myVarRecap;
+_.recap_array = {};
 _.recap_array.ae;
+
