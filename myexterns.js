@@ -32,5 +32,5 @@ var status;
 var counterLines;
 var counterLabels;
 var addColor;
-var  recapLines;
+var recapLines;
 var recapLabels;
