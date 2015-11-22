@@ -53,4 +53,15 @@ var click_startEditor;
 _.myVarRecap;
 _.recap_array = {};
 _.doneEditingFunction;
-
+-//_.onselectChangedTheme;
+-//_.onselectChangedFontSize;
+-//_.onclickRECAPULATR;
+-//_.onclickAE;
+-//_.onclickVIEWER;
+-//_.onclickABOUT;
+-//_.onclickCONTACT;
+-//_.exampleRecap;
+-//_.exampleRecapEnd;
+-//_.submitRecap;
+-//_.redrawRecap;
+-//_.recap_array.ae;
