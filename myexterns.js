@@ -61,6 +61,7 @@ var counterLabels;
 var addColor;
 var recapLines;
 recapLines.countered;
+var recapHistory;
 var recapLabels;
 var connectWith;
 var revert;
