@@ -81,6 +81,7 @@ var click_startEditor;
 _.myVarRecap;
 _.recap_array = {};
 _.doneEditingFunction;
+_.onclickUNDO;
 //_.onselectChangedTheme;
 //_.onselectChangedFontSize;
 //_.onclickRECAPULATR;
