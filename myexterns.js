@@ -78,6 +78,7 @@ var drop;
 var over;
 var out;
 var click_startEditor;
+var click_delete;
 _.myVarRecap;
 _.recap_array = {};
 _.doneEditingFunction;
